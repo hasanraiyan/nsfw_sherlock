@@ -34,7 +34,7 @@
       "kind": "classifier",
       "role": "photo",
       "file": "freepik-eva02-448.onnx",
-      "sha256": "43f3aafc4b798b45c30da9d2526226ba9473d7c1f6e0285c08921aea1204a8b9",
+      "sha256": "8d882fe4d9ddfce6934cc464b22ea101fb0ddac2670f9214a7e48a6913433d40",
       "input_names": [
         "pixel_values"
       ],
